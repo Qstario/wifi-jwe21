@@ -1,0 +1,22 @@
+{
+    "folders": [
+		{
+			"path": "..\\..\\webkiten"
+		},
+		{
+			"path": "..\\..\\JWE22"
+		},
+		{
+			"path": "..\\..\\ÜbungenWeb"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\JavascriptUd"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "webkiten"
+    }
+}
