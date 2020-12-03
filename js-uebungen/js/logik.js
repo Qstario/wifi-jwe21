@@ -110,12 +110,16 @@ console.log(USER_NAME);
 
 //anstatt var sollte man let verwenden 
 // let ist ein  geschützter bereich
-var example1 = "hui!"
+
+let example1 = "hui!"
 
 {
-    let neueVariable = "Loopy!";
+    //wenn man die zeile unten entfernt wird example neuer wert aus dem scope angezeigt
+    //let example1 = "lokale variable in diesem Scope";
     console.log(example1);
+
+    example1 = "neuer Wert aus dem Scope"
 }
 
 
-//console.log(neueVariable);
+console.log(example1);
